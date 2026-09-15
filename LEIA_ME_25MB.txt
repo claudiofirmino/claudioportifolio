@@ -1,0 +1,24 @@
+PORTFOLIO CLAUDIO FIRMINO - VERSAO OTIMIZADA PARA MENOS DE 25 MB
+
+Conteudo mantido:
+- Todas as paginas HTML, estilos e animacoes.
+- Os 8 Reels locais, sem cortes: mesma duracao e quantidade de frames.
+- Os 4 videos horizontais continuam incorporados pelo YouTube.
+- Os 7 frames do carrossel, a ilustracao do topo e a foto de apresentacao.
+
+Otimizacoes:
+- Imagens e capas convertidas para WebP quando isso reduziu o tamanho.
+- Caminhos das imagens atualizados nos arquivos do site.
+- Ilustracao do header em PNG com transparencia, ajustada para 320 x 320 px.
+- Unboxing Ophera e Reel 07 recomprimidos em H.264/AAC.
+- Ophera agora em 720 x 1280 px; o Reel 07 manteve 720 x 1280 px.
+- Os outros 6 videos foram preservados sem recompressao.
+
+A compressao pode reduzir detalhes, especialmente ao assistir em tela cheia.
+Os videos foram decodificados integralmente na verificacao dos arquivos.
+
+IMPORTANTE:
+Extraia a pasta inteira antes de usar o projeto. Nao separe o HTML dos assets.
+Para testar os videos do YouTube, use o site publicado ou um servidor local,
+conforme as instrucoes de README_YOUTUBE.txt e dos arquivos ABRIR_SITE.
+A reproducao do YouTube depende de conexao e das permissoes de incorporacao.
